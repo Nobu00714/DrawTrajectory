@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ignore 
+png and pptx
+*.png
+*.pptx
